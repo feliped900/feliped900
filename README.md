@@ -29,6 +29,6 @@
  
 ##  
 
-![Snake animation](https://github.com/rafaballerini/feliped900/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/feliped900/feliped900/blob/output/github-contribution-grid-snake.svg)
  
 </div>
