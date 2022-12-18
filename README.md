@@ -1,8 +1,8 @@
 ## Oiii eu sou o Felipe Augusto, trabalho como pré-vendas em Tecnologia e Telecomunicações e estou estudando Data Science e Machine Lerarning!!
 <div align="center">
   <a href="https://github.com/feliped900">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliped900&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliped900&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=feliped900&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliped900&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
